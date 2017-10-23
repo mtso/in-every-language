@@ -14,3 +14,7 @@ An “in every language” project is one where the same program is being writte
 - [mal: Make a Lisp](https://github.com/kanaka/mal)
 - [wordcount: Counting Words](https://github.com/juditacs/wordcount)
 - [Universal Fibonacci: Fibonacci's algorithm in every language](https://github.com/MariusGarbea/UniversalFibonacci)
+- [learning-every-language](https://github.com/linuslagerhjelm/learning-every-language)
+- [baklava](https://github.com/toturkmen/baklava)
+- [clrs](https://github.com/znck-graveyard/clrs)
+
