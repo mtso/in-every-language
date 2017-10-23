@@ -15,4 +15,3 @@ An “in every language” project is one where the same program is being writte
 - [wordcount: Counting Words](https://github.com/juditacs/wordcount)
 - [Universal Fibonacci: Fibonacci's algorithm in every language](https://github.com/MariusGarbea/UniversalFibonacci)
 - [baklava](https://github.com/toturkmen/baklava)
-
