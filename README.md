@@ -4,7 +4,9 @@ Implement it in all the langs!
 
 Track repos that attempt to solve a problem in every programming language.
 
-## In Every Langauge
+An “in every language” project is one where the same program is being written in multiple programming languages to show the unique syntax of each language as it is applied to the same basic program structure.
+
+## Repository List
 
 - [FizzBuzz: FizzBuzz](https://github.com/zenware/FizzBuzz)
 - [hello-world: Hello World](https://github.com/leachim6/hello-world)
