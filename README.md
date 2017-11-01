@@ -16,3 +16,4 @@ An “in every language” project is one where the same program is being writte
 - [Universal Fibonacci: Fibonacci's algorithm in every language](https://github.com/MariusGarbea/UniversalFibonacci)
 - [baklava](https://github.com/toturkmen/baklava)
 - [Hello World programs in different languages](https://github.com/knightking100/hello-worlds)
+- [Collection of Programming Puzzles in Every Language](https://github.com/josephwegner/ineverylang)
