@@ -8,12 +8,13 @@ An “in every language” project is one where the same program is being writte
 
 ## Repository List
 
+- [baklava](https://github.com/toturkmen/baklava)
+- [Collection of Programming Puzzles in Every Language](https://github.com/josephwegner/ineverylang)
 - [FizzBuzz: FizzBuzz](https://github.com/zenware/FizzBuzz)
 - [hello-world: Hello World](https://github.com/leachim6/hello-world)
+- [Hello World programs in different languages](https://github.com/knightking100/hello-worlds)
 - [hof: Higher-order Functions](https://github.com/mtso/hof)
 - [mal: Make a Lisp](https://github.com/kanaka/mal)
-- [wordcount: Counting Words](https://github.com/juditacs/wordcount)
+- [Sample Programs in Every Language](https://github.com/jrg94/sample-programs)
 - [Universal Fibonacci: Fibonacci's algorithm in every language](https://github.com/MariusGarbea/UniversalFibonacci)
-- [baklava](https://github.com/toturkmen/baklava)
-- [Hello World programs in different languages](https://github.com/knightking100/hello-worlds)
-- [Collection of Programming Puzzles in Every Language](https://github.com/josephwegner/ineverylang)
+- [wordcount: Counting Words](https://github.com/juditacs/wordcount)
